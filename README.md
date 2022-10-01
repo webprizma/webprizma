@@ -23,4 +23,4 @@
 В рамках обучения в школе <a href="QA.GURU">QA.GURU</a> была подготовлена выпускная работа.
 Работа состоит из трех частей: автоматизация UI, API и Mobile App.
 
-<a href="https://github.com/webprizma/QAGuruDiploma">
+<a href="https://github.com/webprizma/QAGuruDiploma">Диплом</a>
