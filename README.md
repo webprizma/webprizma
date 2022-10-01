@@ -21,7 +21,7 @@
 <img width="6%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webprizma)](https://github.com/anuraghazra/github-readme-stats)
+[![Webprizma's GitHub stats](https://github-readme-stats.vercel.app/api?username=webprizma&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Диплом
 В рамках обучения в школе <a href="QA.GURU">QA.GURU</a> была подготовлена выпускная работа.
