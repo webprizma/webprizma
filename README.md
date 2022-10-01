@@ -24,8 +24,6 @@
 <a href="https://github.com/webprizma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=webprizma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
 
 # Диплом
-<img width="40" title="GitHub" src="media/qaguruLogo.svg">
-
 В рамках обучения в школе <a href="QA.GURU">QA.GURU</a> была подготовлена выпускная работа.
 Работа состоит из трех частей: автоматизация UI, API и Mobile App.
 
