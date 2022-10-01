@@ -21,8 +21,6 @@
 <img width="6%" title="Telegram" src="images/logo/Telegram.svg">
 </p>
 
-<a href="https://github.com/webprizma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=webprizma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webprizma)](https://github.com/anuraghazra/github-readme-stats)
 
 # Диплом
