@@ -8,7 +8,7 @@
 
 **Languages and Tools:**
 
-<code><img src="/media/Java.svg" width="40"/></code>
+<code><img src="media/Java.svg" width="40"/></code>
 <code><img src="media/Intelij_IDEA.svg" width="40"/></code>
 <code><img src="media/postgresql.svg" width="40"/></code>
 <code><img src="media/GitHub.svg" width="40"/></code>
