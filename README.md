@@ -2,8 +2,8 @@
 
 **About me**
 
-- 💼 I'm QA Engineer
-- 🌱 I’m currently working at dot-dot.ru
+- 💼 I'm Middle Fullstack QA Engineer
+- 🌱 I’m currently working at SberHealth
 - 📫 How to reach me: Telegram @yurikulagin
 
 **Languages and Tools:**
